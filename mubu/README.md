@@ -5,4 +5,8 @@
 * [华园医疗战略与布局的思考-郑昶院长](https://bitbyte27.github.io/html/mubu/华园医疗战略与布局的思考-郑昶院长.html)
 * [薛兆丰的北大经济学课](https://bitbyte27.github.io/html/mubu/薛兆丰的北大经济学课.html)
 * [股权激励](https://bitbyte27.github.io/html/mubu/股权激励.2018-10-7.html)
+* [刻意练习A](https://bitbyte27.github.io/html/mubu/《刻意练习》笔记A.html)
+* [刻意练习B](https://bitbyte27.github.io/html/mubu/《刻意练习》笔记B.html)
+* [联盟](https://bitbyte27.github.io/html/mubu/《联盟》笔记.html)
+* [创业融资，从一个好故事开始](https://bitbyte27.github.io/html/mubu/《创业融资，从一个好故事开始》笔记.html)
 * [](https://bitbyte27.github.io/html/mubu/.html)
