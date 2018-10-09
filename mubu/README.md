@@ -9,4 +9,5 @@
 * [刻意练习B](https://bitbyte27.github.io/html/mubu/《刻意练习》笔记B.html)
 * [联盟](https://bitbyte27.github.io/html/mubu/《联盟》笔记.html)
 * [创业融资，从一个好故事开始](https://bitbyte27.github.io/html/mubu/《创业融资，从一个好故事开始》笔记.html)
+* [投资管理流程](https://bitbyte27.github.io/html/mubu/投资管理流程.html)
 * [](https://bitbyte27.github.io/html/mubu/.html)
