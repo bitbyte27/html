@@ -13,3 +13,5 @@
 * [Quant量化思维导图](https://bitbyte27.github.io/html/Quant/TOPQuant.html)
 
 > [幕布](mubu/README.md)
+
+> [视频](video/README.md)
